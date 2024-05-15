@@ -48,7 +48,7 @@ const Tutorial = ({ tutorial, refreshList }) => {
 
   return (
     <div>
-      <h4>Tutorial</h4>
+      <h4>Tutorial test</h4>
       {tutorial ? (
         <div className="edit-form">
           <form>
